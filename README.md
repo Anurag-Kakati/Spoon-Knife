@@ -1,6 +1,6 @@
 ### Well hello there!
 
-Just an edit
+Here is an edit
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
